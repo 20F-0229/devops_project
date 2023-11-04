@@ -1,0 +1,6 @@
+[spectre_web]
+spectre_web ansible_host=127.0.0.1 ansible_port=2222
+
+[spectre_android]
+spectre_android ansible_host=127.0.0.1 ansible_port=2200
+

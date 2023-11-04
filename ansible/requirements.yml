@@ -1,0 +1,9 @@
+---
+- name: nginx
+  src: https://github.com/nginxinc/ansible-role-nginx
+  version: v2.11.2
+
+- name: geerlingguy.java
+  src: https://github.com/geerlingguy/ansible-role-java
+  version: 4.8.1
+

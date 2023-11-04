@@ -1,0 +1,4 @@
+---
+- import_playbook: application1_playbook.yml
+- import_playbook: application2_playbook.yml
+
