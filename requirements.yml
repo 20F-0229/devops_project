@@ -1,0 +1,10 @@
+---
+
+roles:
+  - name: junaid.spectre_web
+    src: junaid.spectre_web
+  - name: haram.spectre_android
+    src: haram.spectre_android
+  - name: junaid1.spectre_api
+    src: junaid1.spectre_api
+
